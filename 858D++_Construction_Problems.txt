@@ -1,0 +1,7 @@
+858D++ Pad Problems (23 July 2020):
+
+Z1 ->	7.035V zener
+	Pad too long for part
+
+R5, R6 ->	330R, 0.5W
+		Pad too short for part
